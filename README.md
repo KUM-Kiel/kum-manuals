@@ -15,4 +15,4 @@ K/MT | Product | Manuals
 4260 | DIRC & UHURA | [English](Manual_DIRC_UHURA_4260.pdf) [Deutsch](Handbuch_DIRC_UHURA_4260.pdf)
 4230 | OBS NAMMU & 6D6 | [English](Manual_Nammu_4230.pdf)
 2230 | OBS Lobster | [English](Manual_Lobster_6D6_2230.pdf)
-1099 | Inclinometer Matemo | [Englsih](Manual_MATEMO_2017_09.pdf) [Deutsch](Handbuch_MATEMO_2017_09.pdf)
+1099 | Inclinometer Matemo | [English](Manual_MATEMO_2017_09.pdf) [Deutsch](Handbuch_MATEMO_2017_09.pdf)
