@@ -10,6 +10,7 @@ K/MT | Product | Manuals
 4270 | DIRC II & UHURA | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_DIRC2_UHURA_4270.pdf)
 4400 | Releaser KUMQuat | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_KUMQuat_4400.pdf) [Deutsch](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Handbuch_KUMQuat_4400.pdf)
 4230 | OBS NAMMU & 6D7 | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_Nammu_6D7_4230.pdf)
+234 | Sediment Trap 4TUNA | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_Sediment_Trap_KMT234-4TUNA.pdf)
 320 | Sediment Trap | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_Sediment_Trap_KMT320-TUNA.pdf) [Deutsch](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Handbuch_Sinkstoff-Falle_KMT320-TUNA.pdf)
 4240 | Data Logger 6D6 | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_Datalogger_6D6_4240.pdf) [Deutsch](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Handbuch_Datalogger_6D6_4240.pdf)
 4260 | DIRC & UHURA | [English](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Manual_DIRC_UHURA_4260.pdf) [Deutsch](https://raw.githubusercontent.com/KUM-Kiel/kum-manuals/main/Handbuch_DIRC_UHURA_4260.pdf)
